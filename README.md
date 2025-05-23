@@ -63,7 +63,7 @@ Example:
 
 ## Executable Download (Windows)
 
-Download the executable version for Windows from [Releases](https://github.com/yourusername/Michelin-Plotter/releases).
+Download the executable version for Windows from [Releases](https://github.com/Michel1297/Michelin-Plotter/releases).
 
 ## License
 
